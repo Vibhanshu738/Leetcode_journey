@@ -34,14 +34,6 @@ Unlike standard code dumps, this repo focuses on:
     └── 📁 assets (Dry Run Images)
 ```
 
-## 📊 Daily Progress Tracker
-
-| Date | Topic | Problem | Difficulty | Time Taken | Approach | Language | Solution |
-|------|-------|----------|------------|------------|----------|----------|----------|
-| 20 Feb 2026 | Arrays | Two Sum | 🟢 Easy | 25 min | HashMap (Optimized) | Java | [View Code]() |
-
-
-
 
 ## 🛠️ Languages & Tools
 
