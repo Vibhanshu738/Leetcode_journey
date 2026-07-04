@@ -70,3 +70,15 @@ Unlike standard code dumps, this repo focuses on:
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding GIF">
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
