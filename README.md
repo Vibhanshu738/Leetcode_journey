@@ -77,8 +77,4 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
