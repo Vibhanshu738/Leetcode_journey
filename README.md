@@ -82,4 +82,12 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
