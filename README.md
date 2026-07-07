@@ -88,6 +88,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
