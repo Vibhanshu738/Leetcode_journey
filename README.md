@@ -78,6 +78,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -86,8 +87,14 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
