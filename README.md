@@ -94,6 +94,7 @@ Unlike standard code dumps, this repo focuses on:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
@@ -103,6 +104,7 @@ Unlike standard code dumps, this repo focuses on:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -133,4 +135,8 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
