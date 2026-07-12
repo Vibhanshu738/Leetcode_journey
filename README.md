@@ -69,6 +69,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
@@ -139,4 +140,12 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
