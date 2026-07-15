@@ -79,6 +79,7 @@ Unlike standard code dumps, this repo focuses on:
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
