@@ -110,6 +110,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -145,6 +146,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
