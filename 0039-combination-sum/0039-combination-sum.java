@@ -16,16 +16,10 @@ class Solution {
             return;
 
         curr.add(candidates[index]);
-        backtrack(candidates,
-                  target - candidates[index],
-                  index,
-                  curr);
+        backtrack(candidates,target - candidates[index],index,curr);
 
         curr.remove(curr.size() - 1);
 
-        backtrack(candidates,
-                  target,
-                  index + 1,
-                  curr);
+        backtrack(candidates,target,index + 1,curr);
     }
 }
