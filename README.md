@@ -186,4 +186,8 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0039-combination-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
