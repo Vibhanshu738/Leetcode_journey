@@ -74,6 +74,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
@@ -150,6 +151,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -193,4 +195,12 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0078-subsets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
