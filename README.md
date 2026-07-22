@@ -86,6 +86,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
+| [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +216,5 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
