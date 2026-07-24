@@ -84,6 +84,7 @@ Unlike standard code dumps, this repo focuses on:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
@@ -135,6 +136,7 @@ Unlike standard code dumps, this repo focuses on:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -167,6 +169,7 @@ Unlike standard code dumps, this repo focuses on:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
