@@ -249,6 +249,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -357,4 +360,5 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
