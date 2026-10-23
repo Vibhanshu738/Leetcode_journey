@@ -115,6 +115,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
