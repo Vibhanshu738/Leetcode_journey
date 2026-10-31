@@ -81,6 +81,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0085-maximal-rectangle](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -168,6 +169,7 @@ Unlike standard code dumps, this repo focuses on:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 ## Merge Sort
@@ -179,6 +181,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
@@ -255,6 +258,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0101-symmetric-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
@@ -281,6 +285,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0101-symmetric-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
