@@ -82,6 +82,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -315,6 +316,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
