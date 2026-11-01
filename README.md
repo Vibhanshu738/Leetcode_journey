@@ -76,6 +76,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0040-combination-sum-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0085-maximal-rectangle) |
@@ -122,6 +123,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,6 +133,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
@@ -379,4 +382,12 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
