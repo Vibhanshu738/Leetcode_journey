@@ -84,6 +84,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0090-subsets-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +189,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
@@ -395,4 +397,8 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
